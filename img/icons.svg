@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="395" viewBox="0 0 42 395">
+  <defs>
+    <clipPath id="clip-SVG">
+      <rect width="42" height="395"/>
+    </clipPath>
+  </defs>
+  <g id="SVG" clip-path="url(#clip-SVG)">
+    <g id="Gruppe_8" data-name="Gruppe 8" transform="translate(-36 -97)">
+      <g id="Home_Icon" data-name="Home Icon" transform="translate(42 101.999)">
+        <g id="Gruppe_7" data-name="Gruppe 7" transform="translate(-1207 -2931)">
+          <g id="Gruppe_6" data-name="Gruppe 6" transform="translate(-14 -75)">
+            <g id="Gruppe_5" data-name="Gruppe 5" transform="translate(307 2555)">
+              <g id="Gruppe_4" data-name="Gruppe 4" transform="translate(0 237)">
+                <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(914 214)">
+                  <path id="Pfad_2" data-name="Pfad 2" d="M31.685,12.084a1.385,1.385,0,1,1-1.733,2.16L16.1,3.139,2.25,14.244a1.384,1.384,0,1,1-1.731-2.16L15.236.285a.977.977,0,0,1,.108-.058A1.362,1.362,0,0,1,15.6.1,1.306,1.306,0,0,1,15.84.022,1.4,1.4,0,0,1,16.1,0a1.429,1.429,0,0,1,.263.021A1.338,1.338,0,0,1,16.606.1a1.293,1.293,0,0,1,.252.129c.035.023.076.03.111.058Zm-3.635,4.48a1.392,1.392,0,0,1,1.385,1.385v12.6a2.279,2.279,0,0,1-.48,1.375,2.362,2.362,0,0,1-1.733.838h-7.5a1.458,1.458,0,0,1-1.052-.489,1.408,1.408,0,0,1-.33-.9V24.466H13.862l0,6.907a1.419,1.419,0,0,1-.378.953,1.446,1.446,0,0,1-1.006.434H4.982a2.351,2.351,0,0,1-1.724-.831,2.269,2.269,0,0,1-.489-1.382v-12.6a1.385,1.385,0,0,1,2.769,0V29.99h5.55V23.083a1.452,1.452,0,0,1,.319-.884,1.5,1.5,0,0,1,1.082-.519h7.223a1.449,1.449,0,0,1,.9.335,1.483,1.483,0,0,1,.5,1.069V29.99h5.552l0-12.042A1.392,1.392,0,0,1,28.05,16.564Z" fill="#fff" fill-rule="evenodd"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="music_Icon" data-name="music Icon" transform="translate(41 145)">
+        <path id="Pfad_3" data-name="Pfad 3" d="M10.987,22.228V6.236a1.314,1.314,0,0,1,.977-1.221L31.5-.112a1.337,1.337,0,0,1,1.587,1.221V23.815c0,3.54-3.662,5.493-6.714,5.493-3.174,0-6.714-1.953-6.714-5.493,0-3.418,3.54-5.371,6.714-5.371a7.307,7.307,0,0,1,4.273,1.221V2.7L13.428,7.212V9.9L26.857,6.48c1.465-.488,2.075,1.953.61,2.319L13.428,12.461V26.378c0,3.54-3.54,5.493-6.714,5.493C3.662,31.872,0,29.918,0,26.378c0-3.418,3.662-5.371,6.714-5.371A7.992,7.992,0,0,1,10.987,22.228Zm15.382-1.343c-1.709,0-4.273.855-4.273,2.93s2.564,3.052,4.273,3.052,4.273-.977,4.273-3.052C30.519,21.739,28.078,20.885,26.369,20.885ZM6.714,23.448c-1.709,0-4.273.977-4.273,2.93,0,2.075,2.564,3.052,4.273,3.052s4.273-.977,4.273-3.052C10.987,24.425,8.423,23.448,6.714,23.448Z" transform="translate(0 0.128)" fill="#fff"/>
+      </g>
+      <g id="Info_Icon" data-name="Info Icon" transform="translate(42 187)">
+        <path id="Pfad_4" data-name="Pfad 4" d="M27.537,27.46a1,1,0,1,1-1.459-1.381l0,0A14.1,14.1,0,1,0,16.109,30.2a1.007,1.007,0,1,1,0,2.014A16.112,16.112,0,1,1,27.537,27.46ZM17.116,8.055a1.007,1.007,0,0,0-1.007,1.007,1.007,1.007,0,1,1-2.014,0,.975.975,0,0,1,.021-.2,3.011,3.011,0,0,1,3-2.818,1.007,1.007,0,0,1,0,2.014Zm-1.78,18.023a2.076,2.076,0,0,1-1.468-2.543l2.3-8.57a.5.5,0,0,0-.748-.56s0,0,0,0l-.832.481a1.007,1.007,0,0,1-1.007-1.744l1.781-1.027a2.075,2.075,0,0,1,3.026,2.343h0l-2.3,8.57h0a.5.5,0,0,0,.748.56s0,0,0,0L18.9,22.395a1.007,1.007,0,0,1,1.007,1.744l-3.014,1.74A2.067,2.067,0,0,1,15.336,26.077Zm8.324,2.113A1.007,1.007,0,1,1,22.653,29.2,1.007,1.007,0,0,1,23.66,28.191Z" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g id="Impressum_Icon" data-name="Impressum Icon" transform="translate(-10.755 -186)">
+        <path id="Pfad_5" data-name="Pfad 5" d="M0,4H19.553V29.721L9.783,21.542,0,29.721Z" transform="translate(58.755 484.279)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Calendar_Icon" data-name="Calendar Icon" transform="translate(27.833 252.346)">
+        <path id="Pfad_9" data-name="Pfad 9" d="M42.525,14.775H38.777v-1.5a1.621,1.621,0,1,0-3.242,0v1.5H24.941v-1.5a1.621,1.621,0,0,0-3.242,0v1.5H17.95a2.786,2.786,0,0,0-2.783,2.783V38.117A2.786,2.786,0,0,0,17.95,40.9H40.038a5.276,5.276,0,0,0,5.27-5.27V17.558A2.786,2.786,0,0,0,42.525,14.775ZM17.95,16.994H21.7a1.62,1.62,0,0,0,3.238,0h10.6a1.62,1.62,0,0,0,3.239,0h3.75a.572.572,0,0,1,.564.564v4.334h-25.7V17.558A.572.572,0,0,1,17.95,16.994Zm-.564,21.124V24.076h25.7V33.8H38.555l-.033,4.88H17.95A.572.572,0,0,1,17.386,38.117Zm23.356.479.018-2.576h2.3A3.054,3.054,0,0,1,40.742,38.6Z" fill="#fff"/>
+        <path id="Pfad_10" data-name="Pfad 10" d="M45.889,67.571a2.866,2.866,0,0,1,.956-2.256,3.459,3.459,0,0,1,2.23-.719c2.219,0,2.955,1.488,2.955,2.218,0,1.81-1.011,1.81-1.011,1.847v.025c0,.1,1.252.1,1.252,2.02,0,1.053-.7,2.714-3.207,2.714-3.438,0-3.449-2.727-3.394-3.371h2.087a1.417,1.417,0,0,0,.3,1.028,1.047,1.047,0,0,0,.912.384c.626,0,1.022-.26,1.022-.967,0-.756-.516-.893-1.022-.893a3.33,3.33,0,0,0-.637.062V67.98a5.864,5.864,0,0,0,.637.05c.462,0,1.043-.111,1.043-.78,0-.546-.549-.756-1-.756a.98.98,0,0,0-1.055,1.078H45.889Z" transform="translate(-22.033 -38.257)" fill="#fff"/>
+        <path id="Pfad_11" data-name="Pfad 11" d="M76.6,68.61h-1.79V66.825a1.954,1.954,0,0,0,2.273-1.871h1.8V73.58H76.6Z" transform="translate(-43.099 -38.516)" fill="#fff"/>
+      </g>
+      <g id="Table_Icon" data-name="Table Icon" transform="translate(43 225.94)">
+        <path id="Pfad_6" data-name="Pfad 6" d="M33.968,21.142H31.833V19.685H16.877v1.457H14.742V19.685h-3.4v4.326H37.368V19.685h-3.4Z" transform="translate(-9.207 -15.142)" fill="none"/>
+        <path id="Pfad_7" data-name="Pfad 7" d="M11.342,55.235H37.368V38.878H11.342Zm4.1-14.259H33.267v2.135H15.444Zm0,4.634H33.267v2.135H15.444Zm0,4.634H33.267v2.135H15.444Z" transform="translate(-9.207 -27.874)" fill="none"/>
+        <rect id="Rechteck_30" data-name="Rechteck 30" width="17.823" height="2.135" transform="translate(6.237 13.102)" fill="#fff"/>
+        <rect id="Rechteck_31" data-name="Rechteck 31" width="17.823" height="2.135" transform="translate(6.237 17.736)" fill="#fff"/>
+        <rect id="Rechteck_32" data-name="Rechteck 32" width="17.823" height="2.135" transform="translate(6.237 22.37)" fill="#fff"/>
+        <path id="Pfad_8" data-name="Pfad 8" d="M33.754,8.6H29.761V6.188H27.626V8.6H12.67V6.188H10.535V8.6H6.542A1.544,1.544,0,0,0,5,10.139v24a1.544,1.544,0,0,0,1.542,1.542H33.754A1.544,1.544,0,0,0,35.3,34.141v-24A1.544,1.544,0,0,0,33.754,8.6Zm-.592,24.953H7.135V17.192H33.161V33.549Zm0-18.492H7.135V10.731h3.4v1.457H12.67V10.731H27.626v1.457h2.135V10.731h3.4v4.326Z" transform="translate(-5 -6.188)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Pfeil" d="M6.5,4.875,1.625,0,0,1.625l6.5,6.5,6.5-6.5L11.375,0Z" transform="translate(14 244)" fill="#fff"/>
+    <g id="Heart_Icon" data-name="Heart Icon" transform="translate(20 257.358)">
+      <path id="Pfad_12" data-name="Pfad 12" d="M18.076,7.106a4.718,4.718,0,0,0-6.809-.023A4.753,4.753,0,0,0,6.708,5.824a5.069,5.069,0,0,0-3.547,3.53,4.85,4.85,0,0,0,1.453,4.769l6.445,6.436a.285.285,0,0,0,.4,0L17.9,14.123A4.743,4.743,0,0,0,18.076,7.106ZM17.5,13.722l-6.234,6.242L5.016,13.722A4.267,4.267,0,0,1,3.711,9.5,4.5,4.5,0,0,1,6.845,6.368a4.051,4.051,0,0,1,1.037-.137,4.5,4.5,0,0,1,3.177,1.45.285.285,0,0,0,.4,0,4.2,4.2,0,0,1,6.214-.174A4.206,4.206,0,0,1,17.5,13.722Z" transform="translate(0 0)" fill="#d5d5d5" stroke="#d5d5d5" stroke-width="1"/>
+    </g>
+    <g id="Heart_Icon-2" data-name="Heart Icon" transform="translate(0 257.358)">
+      <path id="Pfad_12-2" data-name="Pfad 12" d="M18.076,7.106a4.718,4.718,0,0,0-6.809-.023A4.753,4.753,0,0,0,6.708,5.824a5.069,5.069,0,0,0-3.547,3.53,4.85,4.85,0,0,0,1.453,4.769l6.445,6.436a.285.285,0,0,0,.4,0L17.9,14.123A4.743,4.743,0,0,0,18.076,7.106Z" transform="translate(0 0)" fill="#ff6565" stroke="#ff6565" stroke-width="1"/>
+    </g>
+    <g id="search_icon" data-name="search icon" transform="translate(-306.156 261.089)">
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(317 23)" fill="none" stroke="#d5d5d5" stroke-width="2">
+        <circle cx="8.158" cy="8.158" r="8.158" stroke="none"/>
+        <circle cx="8.158" cy="8.158" r="7.158" fill="none"/>
+      </g>
+      <line id="Linie_1" data-name="Linie 1" x1="6.344" y1="6.589" transform="translate(330.656 36.411)" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Play_Icon" data-name="Play Icon" transform="translate(-229 -62.154)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="17.5" cy="17.5" r="17.5" transform="translate(233 375.154)" fill="#fff" opacity="0.85"/>
+      <path id="Polygon_1" data-name="Polygon 1" d="M7.5,0,15,13H0Z" transform="translate(259 385.154) rotate(90)" fill="#ffd175"/>
+      <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(230 372.154)" fill="none" stroke="#fff" stroke-width="1" opacity="0.85">
+        <circle cx="20.5" cy="20.5" r="20.5" stroke="none"/>
+        <circle cx="20.5" cy="20.5" r="20" fill="none"/>
+      </g>
+    </g>
+    <g id="Pause_Icon" data-name="Pause Icon" transform="translate(-229 -19.154)">
+      <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="17.5" cy="17.5" r="17.5" transform="translate(233 375.154)" fill="#fff" opacity="0.85"/>
+      <g id="Ellipse_8-2" data-name="Ellipse 8" transform="translate(230 372.154)" fill="none" stroke="#fff" stroke-width="1" opacity="0.85">
+        <circle cx="20.5" cy="20.5" r="20.5" stroke="none"/>
+        <circle cx="20.5" cy="20.5" r="20" fill="none"/>
+      </g>
+      <line id="Linie_6" data-name="Linie 6" y2="15" transform="translate(246.5 385.654)" fill="none" stroke="#ffd175" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_7" data-name="Linie 7" y2="15" transform="translate(254.5 385.654)" fill="none" stroke="#ffd175" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
