@@ -1,12 +1,10 @@
 Travis build: [![Build Status](https://travis-ci.org/kerwaapp/kerwaapp.svg?branch=master)](https://travis-ci.org/kerwaapp/kerwaapp)
 
-#### See: [Official Demo](https://kerwaapp.com/kerwaapp) | Read: [Official Docs Page](https://kerwaapp.github.io/)
+#### See: [Official Demo](https://app.kerwacrew.de/) | Read: [Official Docs Page](https://app.kerwacrew.de/)
 
 # kerwaapp WordPress Theme Framework
 
-Website: [https://kerwaapp.com](https://kerwaapp.com)
-
-Child Theme Project: [https://github.com/kerwaapp/kerwaapp-child](https://github.com/kerwaapp/kerwaapp-child)
+Website: [https://app.kerwacrew.de/](https://app.kerwacrew.de/)
 
 ## About
 
